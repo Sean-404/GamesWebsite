@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Articles>
+  <Article>
+    <heading>Game Spotlight</heading>
+    <tagline>This Week: Forza Horizon 4</tagline>
+    <storyimg_href>ph/ph-forza.jpg</storyimg_href>
+    <content> </content>
+    <article_href></article_href>
+    <summary></summary>
+    <link>news.php</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+  <Article>
+    <heading>Latest Survival News</heading>
+    <tagline>The King of Survival Games</tagline>
+    <storyimg_href>ph/ph-ark.jpg</storyimg_href>
+    <content> </content>
+    <article_href></article_href>
+    <summary>Catch up on all of the news relating to ARK: Survival Evolved.</summary>
+    <link>news.php</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+  <Article>
+    <heading>Upcoming Game</heading>
+    <tagline>Star Wars Jedi: Fallen Order</tagline>
+    <storyimg_href>ph/ph-starwars.jpg</storyimg_href>
+    <content> </content>
+    <article_href></article_href>
+    <summary>See all the latest news about the upcoming Star Wars game.</summary>
+    <link>news.php</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+  <Article>
+    <heading>Film News</heading>
+    <tagline>Avengers: Endgame</tagline>
+    <storyimg_href>ph/ph-avengers.jpg</storyimg_href>
+    <content> </content>
+    <article_href></article_href>
+    <summary>See the trailer for the Endgame!</summary>
+    <link>https://www.youtube.com/watch?v=TcMBFSGVi1c</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+</Articles>
